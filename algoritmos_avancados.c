@@ -1,10 +1,3 @@
-Com certeza! Com base nas regras e requisitos que você me forneceu, preparei um código em linguagem C que simula o mapa da mansão como uma Árvore Binária e permite a exploração interativa.
-
-O código está modularizado e documentado, seguindo as melhores práticas de legibilidade.
-
-Código em C para o Detective Quest
-C
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
